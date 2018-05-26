@@ -22,7 +22,7 @@ export function resetLayout(state) {
 			settings: {direction: 'row'}
 		},
 		2: {
-			type: 'Scenes',
+			type: 'Stream',
 			parent: 1,
 			settings: {}
 		}
